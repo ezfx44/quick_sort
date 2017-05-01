@@ -1,4 +1,6 @@
 #include <iostream>
+#include <vector>
+#include <ctime>
 #include "quick_sort.h"
 using namespace std;
 
